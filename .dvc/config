@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://mlops-day21-quynh-2601621-data/dvc
+    credentialpath = ../sa-key.json
