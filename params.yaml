@@ -4,6 +4,6 @@
 # model_type: random_forest | gradient_boosting | logistic_regression
 model_type: random_forest
 
-n_estimators: 800
-max_depth: null
+n_estimators: 5
+max_depth: 2
 min_samples_split: 2
